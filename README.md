@@ -83,18 +83,15 @@ Develop a **two-player crossword puzzle game** that uses the **Minimax algorithm
   
 
 ```bash
-
 # Clone the repository
+git clone https://github.com/anandsuraj/ai-crossword-minimax.git
 
-git  clone  https://github.com/your-username/crossword-minimax-bits.git
-
-cd  crossword-minimax-bits
-
+# Move into the project directory
+cd ai-crossword-minimax
   
-
 # Run the game
 
-python  crossword_game.py
+python  crossword_game.py or .ipynb file
 
 ````
 
